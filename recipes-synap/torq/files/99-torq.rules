@@ -1,0 +1,3 @@
+KERNEL=="torq", GROUP="torizon", MODE="0660"
+KERNEL=="cpu_dma_latency", GROUP="torizon", MODE="0660"
+SUBSYSTEM=="dma_heap", GROUP="torizon", MODE="0660"
